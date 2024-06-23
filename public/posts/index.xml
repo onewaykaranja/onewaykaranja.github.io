@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Patrick Karanja</title>
+    
+    
+    
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Patrick Karanja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024</copyright>
+    <lastBuildDate>Sun, 23 Jun 2024 08:12:54 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Protest Peacefully</title>
+      <link>//localhost:1313/posts/how-to-protest-peacefully/</link>
+      <pubDate>Sun, 23 Jun 2024 08:12:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/how-to-protest-peacefully/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          How to protest peacefully # Protests are a way for people to speak truth to power and drive social change by exposing injustice and abuse, demanding accountability, and inspiring hope for a better future. Throughout history, protests have been the driving force behind powerful social movements. More on protests.
+Plan and prepare: # 1.Have a clear goal: Articulate your goals and the message you want to convey. A focused message can help keep the protest peaceful and prevent confusion or mixed signals.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to Be Safe in a Protest</title>
+      <link>//localhost:1313/posts/how-to-be-safe-in-a-protest/</link>
+      <pubDate>Sun, 23 Jun 2024 08:11:19 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/how-to-be-safe-in-a-protest/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          How to be safe during a protest # 1.Research and plan ahead: # Before joining any protest, conduct thorough research to understand the organizers, their values, and their approach. Ensure that the protest aligns with your values and that the organizers prioritize nonviolence and have de-escalation strategies in place. Identify the meeting location and time, and familiarize yourself with the area. Look for potential exit routes,first aid stations,safe havens that you can use if needed.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Logging With Iptables</title>
+      <link>//localhost:1313/posts/logging-with-iptables/</link>
+      <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/logging-with-iptables/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Logging # why logging?
+Logging serves several purposes these are;
+1.Troubleshooting:
+Logs can help you identify problems with network connectivity,app behaviour and or system rules configurations.
+2.Perfomance analysis :
+You get insights into network usage patterns making it easier to identify potential bottlenecks.
+3.Security monitoring:
+By logging specific types of traffic, you can detect and analyze potential security threats.
+4.Compliance and auditing:
+Depending on the company and nature of work,logging network activity might be a compliance requirement.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

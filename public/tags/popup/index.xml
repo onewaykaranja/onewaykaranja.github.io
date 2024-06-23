@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popup on Patrick Karanja</title>
+    
+    
+    
+    <link>//localhost:1313/tags/popup/</link>
+    <description>Recent content in Popup on Patrick Karanja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024</copyright>
+    <lastBuildDate>Thu, 06 Jun 2024 11:33:39 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/popup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Post 1</title>
+      <link>//localhost:1313/posts/blog-post-1/</link>
+      <pubDate>Thu, 06 Jun 2024 11:33:39 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/blog-post-1/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
