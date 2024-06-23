@@ -47,15 +47,15 @@ Identify a safe meeting place away from the protest site where you can gather wi
 
 
 #### pretty obvious knowns
-2.Do not protest at night!
-2.Do not use violence!
-3.Do not loot!
-4.Do not be drunk or on drugs.
-5.If you are arrested ,do not talk shit.
+2.Do not protest at night!  
+2.Do not use violence!  
+3.Do not loot!  
+4.Do not be drunk or on drugs.  
+5.If you are arrested ,do not talk shit.  
 6.Be smart ,be in the know!
 
 If you physically cannot attend a protest,do not stress there are plenty of other ways you could participate.
-  1.Donations.
-  2.Offering skillfull support i.e medics,legal repesentation,content.
-  3.Keeping the conversation going whether online,communities etc.
+  1.Donations.  
+  2.Offering skillfull support i.e medics,legal repesentation,content.  
+  3.Keeping the conversation going whether online,communities etc.  
   4.Checking /tracking on your friends whereabouts/safety during the protest ,either calls,texts or live location.
