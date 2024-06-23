@@ -12,7 +12,7 @@ I can't speak for manuals but blogs do have their perks,subjective,they can be b
 
 In the case my blogs are unbearable don't hesitate to chat me up on my socials below.
 
-This is Patrick Karanja; a security researcher, [fr334aks](https://blog.fr334aks.com/) team member , and now a part time blogger .  
+This is Patrick Karanja; seasonal network engineer, a security researcher, [fr334aks](https://blog.fr334aks.com/) team member , and now a part time blogger .  
 
 **Find me on**:
 
