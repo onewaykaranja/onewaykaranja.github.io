@@ -33,7 +33,7 @@ Pay attention to what's happening around you. If you notice potential dangers or
 Look out for each other. Bring water and offer it to those around you. Help those in need, and if you see someone being targeted or harassed, intervene PEACEFULLY or alert the appropriate people i.e press.
 
 4.Engage peacefully:
-Chant and sing: Use chants and songs to keep energy high and unity strong.
+Chant and sing: Use chants and songs to keep energy high and unity strong,This you honestly learn as you go.
 Use art and symbols: Create signs, banners, and art that convey your message creatively and peacefully.
 
 5.Observe and document:
