@@ -28,7 +28,7 @@ jobs:
       - name: Build
         run: ${RUNNER_TEMP}/hugo
 
-      - name: Deploy
+      - name: hugo
         if: github.ref == 'refs/heads/main'
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
