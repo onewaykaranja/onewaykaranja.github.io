@@ -46,8 +46,8 @@ Understand your legal rights as a protester, and know what to do if you are arre
 Identify a safe meeting place away from the protest site where you can gather with your group if you need to leave quickly.
 
 
-#### pretty obvious knowns
-2.Do not protest at night!  
+#### Pretty obvious knowns
+1.Do not protest at night!  
 2.Do not use violence!  
 3.Do not loot!  
 4.Do not be drunk or on drugs.  
