@@ -1,7 +1,9 @@
 +++
 title = 'G00gle Dorking'
-date = 2024-06-10T08:20:49Z
+date = 2024-06-24T09:12:31Z
+
 +++
+
 ## Understanding Google dorking
  
 Google dorking or google hacks, this is uses specific queries to find information that wouldn't be easily accessible from a normal google search.
