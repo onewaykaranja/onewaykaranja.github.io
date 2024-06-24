@@ -1,5 +1,5 @@
 +++
-title = 'g00gle Dorking'
+title = 'G00gle Dorking'
 date = 2024-06-12T09:12:31Z
 
 +++
