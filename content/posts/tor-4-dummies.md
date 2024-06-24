@@ -17,12 +17,13 @@ Tor is a pretty easy browser to use,if you have used firefox it is pretty to nav
 
 > 2.Changing connection settings and using a bridge to hide your entry to Tor.This is targeted for areas where tor is blocked but if you are using a controlled network that getting to tor could raise alarms like school or work,use this!
 
-These essensiality of the above points are very relative and might not be as important.
+These essensiality of the above points is very relative and might not be as important.
 
 ## Tor OPSEC rules.
 OPSEC(operational security) DO NOT COMPROMISE  
 > 1.Do not login to your clear net social media or email accounts.  
-2.If you must use social media,do not use your real identity,create a disposable email and use that to get an otp to create a proxy account,or receive or send communication.  
+2.If you must use social media,do not use your real identity,create a disposable email and use that to get an otp to create a proxy account,or receive or send communication. 
+  ~if just want to be in know use darknet alternatives like [(nitter.net)] for x 
 3.If you are just a exploring there is absolutely no reason to access any of your real world accounts on tor.
 
 >4.Double check links before clicking them.  
