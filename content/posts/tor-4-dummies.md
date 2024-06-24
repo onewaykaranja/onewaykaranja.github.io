@@ -23,7 +23,7 @@ These essensiality of the above points is very relative and might not be as impo
 OPSEC(operational security) DO NOT COMPROMISE  
 > 1.Do not login to your clear net social media or email accounts.  
 2.If you must use social media,do not use your real identity,create a disposable email and use that to get an otp to create a proxy account,or receive or send communication. 
-  ~if just want to be in know use darknet alternatives like [(nitter.net)] for x 
+  ~if just want to be in know use darknet alternatives like [nitter.net](nitter.net) for [x](x.com)  
 3.If you are just a exploring there is absolutely no reason to access any of your real world accounts on tor.
 
 >4.Double check links before clicking them.  
@@ -31,7 +31,7 @@ OPSEC(operational security) DO NOT COMPROMISE
 6.Do not use your real identity or mention anything that could be tied to your real world identity.
 These are honestly to prevent you from getting phished scammed or hijacked.  
 
-This ofcourse doesn't make you 100% immune but since blog is for complete beginners ,you are good no one is out to get you anyways.
+This ofcourse doesn't make you 100% immune but since blog is for complete beginners ,you are good, no one is out to get you anyways.
 
 
 ### Paranoid level
@@ -40,8 +40,8 @@ These is honestly a deep topic but i'll narrow it down to just on tor.Assuming e
 >1.No browser customersation.  
 2.Verify every link before clicking it.  
   ~ It is best when you are sure of a link you save it offline and only get it from there.    
-  3.Have a second persona; communication styles,intrests,values everything should be different from your real world.You will know how play this.  
-4.Me personally i don't trust any tor node from the us,western europe,australia any country with relationships with your country is a no!  
+  3.Have a second persona; communication styles,intrests,values everything should be different from your real world.You will know how to play this.  
+4.Me personally i don't trust any tor node from the us,western europe,australia  any country with  relationships with your country is a no!  
 
 Eliot said ```whoever controls the exit node controls the traffic ``` ,this is not sci-fi!
 
