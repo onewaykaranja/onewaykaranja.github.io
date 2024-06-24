@@ -64,7 +64,7 @@ Use two periods (..) between numbers to specify a range. For example, ```"camera
 
 #### Related Searches:
 
-The "related:" operator finds websites similar to a specified URL. For instance, "related:x.com" will show sites similar to "x.com."
+The "related:" operator finds websites similar to a specified URL. For instance,``` "related:x.com" ```will show sites similar to "x.com."
 
 #### Cache and Similar Pages:
 
@@ -93,6 +93,6 @@ Use "before:" and "after:" operators to specify a date range for your search. Fo
 
 #### Custom Search Engines:
 
-Create custom search engines for specific sites using "site:," "filetype:," and other operators to focus your searches on particular domains or file types.
+Create custom search engines for specific sites using ``` "site:," "filetype:," ``` and other operators to focus your searches on particular domains or file types.
 
 More on dorking in [HTB](https://www.hackthebox.com/blog/What-Is-Google-Dorking) & [stationX](https://www.stationx.net/google-dorks-cheat-sheet/)
