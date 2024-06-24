@@ -18,7 +18,7 @@ Tor is a pretty easy browser to use,if you have used firefox it is pretty to nav
 
 These essensiality of the above points are very relative and might not be as important.
 
-Tor OPSEC rules.
+## Tor OPSEC rules.
 OPSEC(operational security) DO NOT COMPROMISE
 1.Do not login to your clear net social media or email accounts.
 2.If you must use social media,do not use your real identity,create a disposable email and use that to get an otp to create a proxy account,or receive or send communication.
@@ -31,7 +31,7 @@ These are honestly to prevent you from getting phished scammed or hijacked.
 This ofcourse doesn't make you 100% immune but since blog is for complete beginners ,you are good no one is out to get you anyways.
 
 
-Paranoid level
+### Paranoid level
 These is honestly a deep topic but i'll narrow it down to just on tor.Assuming every other opsec level is secure.
 
 1.No browser customersation.
