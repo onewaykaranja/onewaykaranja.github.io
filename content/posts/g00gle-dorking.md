@@ -31,53 +31,65 @@ While doing research or recon 'dorking' definitely comes through.Below are some 
 Google has made it easier to understand your syntax and craft your queries with [google advanced search.] (https://www.google.com/advanced_search)
 
 ## Crafting your query
-Basic Operators:
+#### Basic Operators:
 
-AND (or &&): Use this operator to include multiple keywords in your search query, ensuring that all of them are present in the results. For example, "cats AND dogs."
-OR (or ||): This operator broadens your search by including results that contain either of the specified keywords. For instance, "cats OR kittens."
-NOT (or !): Excludes specific keywords from your search results. For example, "cats NOT dogs" will show results about cats but exclude those mentioning dogs.
-Phrase Search:
+AND (or &&): Use this operator to include multiple keywords in your search query i.e ''' "puss AND boots."'''      
+OR (or ||): This operator broadens your search by including results that contain either of the specified keywords i.e ''' "black OR brown." '''   
+NOT (or !): Excludes specific keywords from your search results i.e ''' "green NOT greens"  '''  
+  
+#### Phrase Search:
 
-Use quotation marks to search for an exact phrase. For instance, "black cats" will only return results with that exact phrase.
-Site-specific Search:
+Use quotation marks to search for an exact phrase. For instance,''' "brown paper" ''' will only return results with that exact phrase.  
 
-The "site:" operator restricts your search to a specific website or domain. For example, "site:example.com cats" will only show results about cats from the "example.com" website.
+#### Site-specific Search:
+
+The "site:"  operator restricts your search to a specific website or domain. For example,''' "site:x.com Christopher Hadnagy" '' will only show results about cats from the "example.com" website.
 Filetype Search:
 
-The "filetype:" operator allows you to specify the type of file you're looking for. This is useful for finding specific formats like PDFs, Word documents, Excel sheets, etc. For example, "resume filetype:pdf" will search for resumes in PDF format.
-Intitle and Inurl Search:
+The "filetype:" operator allows you to specify the type of file you're looking for. This is useful for finding specific formats like PDFs, Word documents, Excel sheets, etc. For example, ''' "cv filetype:pdf" ''' will search for resumes in PDF format.  
 
-The "intitle:" operator searches for a specific word or phrase in the title of a web page. For instance, "intitle:cats" will return results with "cats" in the title.
-Similarly, the "inurl:" operator searches for keywords in the URL of a web page. For example, "inurl:blog cats" will find pages with "blog" in the URL and related to cats.
-Exclusion Operators:
+#### Intitle and Inurl Search:
 
-Use a hyphen (-) before a word to exclude it from your search results. For instance, "cats -dogs" will exclude results that mention dogs.
+The "intitle:" operator searches for a specific word or phrase in the title of a web page. For instance, "intitle:admin" will return results with "admin" in the title. 
+Similarly, the "inurl:" operator searches for keywords in the URL of a web page i.e ''' "inurl:blog phishing"  ''' will find pages with "blog" in the URL and related to phishing.
+
+#### Exclusion Operators:
+
+Use a hyphen (-) before a word to exclude it from your search results i.e ''' "green -greens" '''will exclude results that mention greens.
 Specific Number Ranges:
 
-Use two periods (..) between numbers to specify a range. For example, "camera $50..$100" will search for cameras priced between $50 and $100.
-Related Searches:
+Use two periods (..) between numbers to specify a range. For example, '''"camera $50..$100"''' will search for cameras priced between $50 and $100.  
 
-The "related:" operator finds websites similar to a specified URL. For instance, "related:example.com" will show sites similar to "example.com."
-Cache and Similar Pages:
+#### Related Searches:
 
-Use "cache:" to view the cached version of a web page. For example, "cache:example.com."
-The "similar:" operator finds pages similar to a specified URL. For instance, "similar:example.com."
-Combination Techniques:
+The "related:" operator finds websites similar to a specified URL. For instance, "related:x.com" will show sites similar to "x.com."
 
-Combine multiple operators to create more targeted searches. For example, "site:example.com intitle:cats filetype:pdf" will search for PDFs about cats on the "example.com" website.
-Wildcards:
+#### Cache and Similar Pages:
 
-Use an asterisk (*) as a placeholder for unknown or variable words in a phrase. For instance, "cats are * animals" will return results with various completions of the phrase.
-Parentheses:
+Use "cache:" to view the cached version of a web page. For example, '''"cache:x.com."'''  
+The "similar:" operator finds pages similar to a specified URL. For instance, '''"similar:x.com."''' 
 
-Use parentheses to group keywords and create more complex queries. For example, "(cats OR dogs) AND (funny videos)" will search for funny videos related to either cats or dogs.
-Language and Region:
+#### Combination Techniques:
 
-Specify the language of the search results with "language:" or the region with "gl=." For example, "cats language:french" or "cats gl=fr" for French results.
-Date Range:
+Combine multiple operators to create more targeted searches. For example, '''"site:x.com intitle:backup filetype:pdf" '''will search for PDFs about backups on the "x.com" website.  
 
-Use "before:" and "after:" operators to specify a date range for your search. For instance, "cats after:2024-01-01 before:2024-12-31."
-Custom Search Engines:
+#### Wildcards:
+
+Use an asterisk (*) as a placeholder for unknown or variable words in a phrase. For instance, ''' "microsoft word * documents" ''' will return results with various completions of the phrase.  
+
+#### Parentheses:
+
+Use parentheses to group keywords and create more complex queries. For example,''' "(black OR brown) AND (colour review)" '''will search for colour reviews related to either black or brown.
+
+#### Language and Region:
+
+Specify the language of the search results with "language:" or the region with "gl=." For example, ''' "movie language:french"  ''' or  ''' "movie gl=fr" for ''' French results.
+
+#### Date Range:
+
+Use "before:" and "after:" operators to specify a date range for your search. For instance,''' "Shogun after:2024-01-01 before:2024-12-31." '''
+
+#### Custom Search Engines:
 
 Create custom search engines for specific sites using "site:," "filetype:," and other operators to focus your searches on particular domains or file types.
 
