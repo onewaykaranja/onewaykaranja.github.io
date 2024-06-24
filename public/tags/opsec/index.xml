@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opsec on Patrick Karanja</title>
+    
+    
+    
+    <link>http://localhost:1313/tags/opsec/</link>
+    <description>Recent content in Opsec on Patrick Karanja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 12:51:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/opsec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tor4dummies</title>
+      <link>http://localhost:1313/posts/tor-4-dummies/</link>
+      <pubDate>Thu, 20 Jun 2024 12:51:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tor-4-dummies/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          TOR # Tor is a privacy centred browser with the aim to bypass sensorship and making your browsing traffic private.
+It works by routing your traffic through 3 different nodes(servers/computers) run by volunteers all over the world.This makes it hard for a tracking agent to really know what you are upto online.
+An intresting fact about tor,is this is where you can access the infamous dark net.You can identify a dark net site with .
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

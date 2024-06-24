@@ -5,22 +5,82 @@
     
     
     
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Patrick Karanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024</copyright>
-    <lastBuildDate>Thu, 06 Jun 2024 17:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 12:51:04 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Internet</title>
+      <link>http://localhost:1313/tags/internet/</link>
+      <pubDate>Thu, 20 Jun 2024 12:51:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/internet/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Opsec</title>
+      <link>http://localhost:1313/tags/opsec/</link>
+      <pubDate>Thu, 20 Jun 2024 12:51:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/opsec/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Wed, 12 Jun 2024 09:12:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Linux</title>
-      <link>//localhost:1313/tags/linux/</link>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description>
         
           
@@ -37,10 +97,10 @@
     
     <item>
       <title>Logging</title>
-      <link>//localhost:1313/tags/logging/</link>
+      <link>http://localhost:1313/tags/logging/</link>
       <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/logging/</guid>
+      <guid>http://localhost:1313/tags/logging/</guid>
       <description>
         
           
@@ -57,10 +117,10 @@
     
     <item>
       <title>Terminal</title>
-      <link>//localhost:1313/tags/terminal/</link>
+      <link>http://localhost:1313/tags/terminal/</link>
       <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/terminal/</guid>
+      <guid>http://localhost:1313/tags/terminal/</guid>
       <description>
         
           
