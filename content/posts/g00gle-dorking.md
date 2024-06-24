@@ -1,5 +1,5 @@
 +++
-title = 'G00gle Dorking'
+title = 'g00gle Dorking'
 date = 2024-06-24T09:12:31Z
 
 +++
@@ -45,7 +45,7 @@ Use quotation marks to search for an exact phrase. For instance,``` "brown paper
 
 #### Site-specific Search:
 
-The "site:"  operator restricts your search to a specific website or domain. For example,``` "site:x.com Christopher Hadnagy" ''' will only show results about Christopher Hadnagy from the "x.com" website.
+The "site:"  operator restricts your search to a specific website or domain. For example,``` "site:x.com Christopher Hadnagy" ``` will only show results about Christopher Hadnagy from the "x.com" website.
 Filetype Search:
 
 The "filetype:" operator allows you to specify the type of file you're looking for. This is useful for finding specific formats like PDFs, Word documents, Excel sheets, etc. For example, ``` "cv filetype:pdf" ``` will search for resumes in PDF format.  
