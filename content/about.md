@@ -12,7 +12,7 @@ I can't speak for manuals but blogs do have their perks,subjective,they can be b
 
 In the case my blogs are unbearable don't hesitate to chat me up on my socials below.
 
-This is Patrick Karanja; seasonal network engineer, a security researcher, [fr334aks](https://blog.fr334aks.com/) apprentice member , and now a part time blogger .  
+This is Patrick Karanja; a seasonal network engineer, a security researcher, [fr334aks](https://blog.fr334aks.com/) apprentice member , and now a part time blogger .  
 
 **Find me on**:
 
@@ -21,5 +21,5 @@ This is Patrick Karanja; seasonal network engineer, a security researcher, [fr33
 - [**Reddit**](https://www.reddit.com/u/Ri5konRED/s/g9cgg20CFN)  
 
 #### #Rejectfinancebill2024!
-The protest posts are not meant to appear here but my other non-technical blog is work in progress.
-This is blog post is still work in progress some functionalities are missing,or do not work.Bare with me!
+The protest posts are not meant to appear here but my non-technical blog is work in progress.
+This is blog site is still work in progress some functionalities are missing,or do not work.Bare with me!
