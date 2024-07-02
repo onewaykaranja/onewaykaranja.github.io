@@ -30,7 +30,7 @@ While doing research or recon 'dorking' definitely comes through.Below are some 
 4. garfield site:youtube.com
 
 ```
-Google has made it easier to understand your syntax and craft your queries with [google advanced search.] (https://www.google.com/advanced_search)
+Google has made it easier to understand your syntax and craft your queries with [google advanced search.](https://www.google.com/advanced_search)
 
 ## Crafting your query
 #### Basic Operators:
