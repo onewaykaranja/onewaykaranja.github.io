@@ -5,22 +5,22 @@
     
     
     
-    <link>http://localhost:1313/tags/logging/</link>
+    <link>https://onewaykaranja.github.io/tags/logging/</link>
     <description>Recent content in Logging on Patrick Karanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024</copyright>
     <lastBuildDate>Thu, 06 Jun 2024 17:24:43 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onewaykaranja.github.io/tags/logging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Logging With Iptables</title>
-      <link>http://localhost:1313/posts/logging-with-iptables/</link>
+      <link>https://onewaykaranja.github.io/posts/logging-with-iptables/</link>
       <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/logging-with-iptables/</guid>
+      <guid>https://onewaykaranja.github.io/posts/logging-with-iptables/</guid>
       <description>
         
           
