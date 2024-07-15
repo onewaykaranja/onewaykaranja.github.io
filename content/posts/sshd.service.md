@@ -2,7 +2,7 @@
 title = 'sshd.service'
 date = 2024-07-15T23:19:50Z
 draft = false
-tags = ["networking" ,"Terminal"]
+tags = ["networking" ,"Terminal" ]
 +++
 ## SSH
 To connect to a remote device using ssh.You need an ssh server started on the remote device.  

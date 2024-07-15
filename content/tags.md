@@ -2,7 +2,7 @@
 title: "test"
 date: "2019-01-18"
 author: "test"
-draft : true
+draft :
 ---
 
 ## Header 2
