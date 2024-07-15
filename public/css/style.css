@@ -239,7 +239,11 @@ a.read-more:active {
     display: inline-block;
     width: 10px;
     height: 1rem;
+<<<<<<< HEAD
     background: #fe5186;
+=======
+    background: #f5ecef;
+>>>>>>> parent of 237f6ca (site changes)
     margin-left: 5px;
     border-radius: 1px;
     animation: cursor 1s infinite; }

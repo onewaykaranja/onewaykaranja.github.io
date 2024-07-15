@@ -5,22 +5,22 @@
     
     
     
-    <link>https://onewaykaranja.github.io/tags/internet/</link>
+    <link>http://localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on Patrick Karanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024</copyright>
     <lastBuildDate>Thu, 20 Jun 2024 12:51:04 +0000</lastBuildDate>
     
-	<atom:link href="https://onewaykaranja.github.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tor4dummies</title>
-      <link>https://onewaykaranja.github.io/posts/tor-4-dummies/</link>
+      <link>http://localhost:1313/posts/tor-4-dummies/</link>
       <pubDate>Thu, 20 Jun 2024 12:51:04 +0000</pubDate>
       
-      <guid>https://onewaykaranja.github.io/posts/tor-4-dummies/</guid>
+      <guid>http://localhost:1313/posts/tor-4-dummies/</guid>
       <description>
         
           
@@ -39,10 +39,10 @@ An intresting fact about tor,is this is where you can access the infamous dark n
     
     <item>
       <title>G00gle Dorking</title>
-      <link>https://onewaykaranja.github.io/posts/g00gle-dorking/</link>
+      <link>http://localhost:1313/posts/g00gle-dorking/</link>
       <pubDate>Wed, 12 Jun 2024 09:12:31 +0000</pubDate>
       
-      <guid>https://onewaykaranja.github.io/posts/g00gle-dorking/</guid>
+      <guid>http://localhost:1313/posts/g00gle-dorking/</guid>
       <description>
         
           
