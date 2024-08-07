@@ -30,7 +30,7 @@ Keep a calm tone and body language. Avoid engaging with counter-protesters or th
 Pay attention to what's happening around you. If you notice potential dangers or signs of escalation, inform the designated leaders or peacekeepers. Keep an eye on exits in case you need to leave quickly.
 
 3.Offer support:
-Look out for each other. Bring water and offer it to those around you. Help those in need, and if you see someone being targeted or harassed, intervene PEACEFULLY or alert the appropriate people i.e press.
+Look out for each other. Bring water and offer it to those around you. Help those in need, and if you see someone being targeted or harassed, intervene PEACEFULLY or alert the appropriate people i.e  Legal Observers or Press.
 
 4.Engage peacefully:
 Chant and sing: Use chants and songs to keep energy high and unity strong,This you honestly learn as you go.
