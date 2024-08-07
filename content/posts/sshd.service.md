@@ -45,7 +45,7 @@ Run ``` ip a ``` to verify the ip.
 
 3. Port configuraion
 ssh could blocked from listening to it's default port 22. 
-Look into ``` sudo nano /etc/ssh/sshd_config``` to see it has not be commented out or tampered with 
+Look into ``` sudo nano /etc/ssh/sshd_config ``` to see it has not be commented out or tampered with 
 
 4. Among others.
 
