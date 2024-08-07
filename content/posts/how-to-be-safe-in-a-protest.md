@@ -18,7 +18,7 @@ Protesting with a group enhances your safety. Join or create a group of trusted 
 
 Consider covering your face with a mask, sunglasses, or other coverings to protect your identity, especially if you fear retaliation or targeting.
 
-Digital privacy<if suspect you are targeted>:
+Digital privacy- if suspect you are targeted:
 
 Limit your digital footprint by turning off location services and facial recognition on your devices. Avoid posting real-time updates on social media, as it can expose your location and the protest's dynamics to outsiders.
 
@@ -45,7 +45,6 @@ Understand your legal rights as a protester, and know what to do if you are arre
 
 Identify a safe meeting place away from the protest site where you can gather with your group if you need to leave quickly.
 
-
 #### Pretty obvious knowns
 1.Do not protest at night!  
 2.Do not use violence!  
@@ -54,7 +53,7 @@ Identify a safe meeting place away from the protest site where you can gather wi
 5.If you are arrested ,do not talk shit.  
 6.Be smart ,be in the know!
 
-If you physically cannot attend a protest,do not stress there are plenty of other ways you could participate.
+If you physically cannot attend a protest,do not stress there are plenty of other ways you could participate.   
   1.Donations.  
   2.Offering skillfull support i.e medics,legal repesentation,content.  
   3.Keeping the conversation going whether online,communities etc.  

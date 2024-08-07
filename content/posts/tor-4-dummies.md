@@ -5,7 +5,7 @@ tags = ["opsec", "internet"]
 +++
 # TOR 
 
-[Tor](https://www.torproject.org) is a privacy centred browser with the aim to bypass sensorship and making your browsing traffic private.
+[Tor](https://www.torproject.org) is a privacy centred browser with the aim to bypass censorship and making your browsing traffic private.
 
 It works by routing your traffic through 3 different nodes(servers/computers) run by volunteers all over the world.This makes it hard for a tracking agent to really know what you are upto online.
 
