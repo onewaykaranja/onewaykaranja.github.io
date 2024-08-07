@@ -6,13 +6,13 @@ author = "R!5K"
 
 ## Hi there,
 
-Three years ago if you would have asked me my opinion blogs,manuals😬, all the technical writings i dreaded them.I was the type to watch a tutorials instead.  
+Three years ago if you would have asked me my opinion blogs,manuals, all the technical writings i dreaded them.I was the type to watch a tutorials instead.  
 
 I can't speak for manuals but blogs do have their perks,subjective,they can be better than video tutorials especially if you struggle staying focused + it definately saves time.  
 
 In the case my blogs are unbearable don't hesitate to chat me up on my socials below.
 
-This is Patrick Karanja; a seasonal network engineer, a security researcher, [fr334aks](https://blog.fr334aks.com/) apprentice member , and now a part time blogger .  
+This is Patrick Karanja; a seasonal network engineer, a security researcher, [fr334aks](https://blog.fr334aks.com/) member , and now a part time blogger .  
 
 **Find me on**:
 
