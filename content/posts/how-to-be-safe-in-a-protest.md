@@ -18,7 +18,7 @@ Protesting with a group enhances your safety. Join or create a group of trusted 
 
 Consider covering your face with a mask, sunglasses, or other coverings to protect your identity, especially if you fear retaliation or targeting.
 
-Digital privacy<if suspect you are targeted>:
+Digital privacy-if suspect you are targeted:
 
 Limit your digital footprint by turning off location services and facial recognition on your devices. Avoid posting real-time updates on social media, as it can expose your location and the protest's dynamics to outsiders.
 
