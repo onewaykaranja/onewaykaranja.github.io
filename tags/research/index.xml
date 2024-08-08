@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Patrick Karanja</title>
+    
+    
+    
+    <link>http://localhost:1313/tags/research/</link>
+    <description>Recent content in Research on Patrick Karanja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024</copyright>
+    <lastBuildDate>Wed, 12 Jun 2024 09:12:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>G00gle Dorking</title>
+      <link>http://localhost:1313/posts/g00gle-dorking/</link>
+      <pubDate>Wed, 12 Jun 2024 09:12:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/g00gle-dorking/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Understanding Google dorking # Google dorking or google hacks, this is uses specific queries to find information that wouldn&amp;rsquo;t be easily accessible from a normal google search. Do not worry this is completely legal as the information is open source.
+What you need is an internet connection and a browser that supports dorking queries(most browsers). While doing research or recon &amp;lsquo;dorking&amp;rsquo; definitely comes through.Below are some examples of intresting dorks:
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

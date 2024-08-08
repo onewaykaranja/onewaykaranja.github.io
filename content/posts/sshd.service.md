@@ -9,7 +9,7 @@ To connect to a remote device using ssh.You need an ssh server started on the re
 
 ###  How do you ssh?
 
-Two ways one is through a password the other is through an ssh key.
+Two #22 ways one is through a password the other is through an ssh key.
 
 ####  Which one do you use?
 If you are big on security definately the ssh key.Passwords lowkey come through if you are lazy.
