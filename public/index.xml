@@ -5,22 +5,22 @@
     
     
     
-    <link>http://localhost:1313/</link>
+    <link>https://onewaykaranja.github.io/</link>
     <description>Recent content on Patrick Karanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024</copyright>
     <lastBuildDate>Mon, 15 Jul 2024 23:19:50 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onewaykaranja.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sshd.service</title>
-      <link>http://localhost:1313/posts/sshd.service/</link>
+      <link>https://onewaykaranja.github.io/posts/sshd.service/</link>
       <pubDate>Mon, 15 Jul 2024 23:19:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sshd.service/</guid>
+      <guid>https://onewaykaranja.github.io/posts/sshd.service/</guid>
       <description>
         
           
@@ -41,10 +41,10 @@ From the terminal type # ssh-keygen .
     
     <item>
       <title>How to Protest Peacefully</title>
-      <link>http://localhost:1313/posts/how-to-protest-peacefully/</link>
+      <link>https://onewaykaranja.github.io/posts/how-to-protest-peacefully/</link>
       <pubDate>Sun, 23 Jun 2024 08:12:54 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/how-to-protest-peacefully/</guid>
+      <guid>https://onewaykaranja.github.io/posts/how-to-protest-peacefully/</guid>
       <description>
         
           
@@ -62,10 +62,10 @@ Plan and prepare: # 1.Have a clear goal: Articulate your goals and the message y
     
     <item>
       <title>How to Be Safe in a Protest</title>
-      <link>http://localhost:1313/posts/how-to-be-safe-in-a-protest/</link>
+      <link>https://onewaykaranja.github.io/posts/how-to-be-safe-in-a-protest/</link>
       <pubDate>Sun, 23 Jun 2024 08:11:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/how-to-be-safe-in-a-protest/</guid>
+      <guid>https://onewaykaranja.github.io/posts/how-to-be-safe-in-a-protest/</guid>
       <description>
         
           
@@ -82,10 +82,10 @@ Plan and prepare: # 1.Have a clear goal: Articulate your goals and the message y
     
     <item>
       <title>Tor4dummies</title>
-      <link>http://localhost:1313/posts/tor-4-dummies/</link>
+      <link>https://onewaykaranja.github.io/posts/tor-4-dummies/</link>
       <pubDate>Thu, 20 Jun 2024 12:51:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tor-4-dummies/</guid>
+      <guid>https://onewaykaranja.github.io/posts/tor-4-dummies/</guid>
       <description>
         
           
@@ -104,10 +104,10 @@ An intresting fact about tor,is this is where you can access the infamous dark n
     
     <item>
       <title>G00gle Dorking</title>
-      <link>http://localhost:1313/posts/g00gle-dorking/</link>
+      <link>https://onewaykaranja.github.io/posts/g00gle-dorking/</link>
       <pubDate>Wed, 12 Jun 2024 09:12:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/g00gle-dorking/</guid>
+      <guid>https://onewaykaranja.github.io/posts/g00gle-dorking/</guid>
       <description>
         
           
@@ -125,10 +125,10 @@ What you need is an internet connection and a browser that supports dorking quer
     
     <item>
       <title>Logging With Iptables</title>
-      <link>http://localhost:1313/posts/logging-with-iptables/</link>
+      <link>https://onewaykaranja.github.io/posts/logging-with-iptables/</link>
       <pubDate>Thu, 06 Jun 2024 17:24:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/logging-with-iptables/</guid>
+      <guid>https://onewaykaranja.github.io/posts/logging-with-iptables/</guid>
       <description>
         
           
@@ -154,10 +154,10 @@ Depending on the company and nature of work,logging network activity might be a 
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://onewaykaranja.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://onewaykaranja.github.io/about/</guid>
       <description>
         
           
@@ -166,7 +166,7 @@ Depending on the company and nature of work,logging network activity might be a 
         
         
         
-          Hi there, # Three years ago if you would have asked me my opinion blogs,manuals, all the technical writings i dreaded them.I was the type to watch a tutorials instead.
+          Hi there, # Three years ago if you would have asked me my opinion blogs,manuals and all the technical writings i dreaded them.I was the type to watch a tutorials instead.
 I can&amp;rsquo;t speak for manuals but blogs do have their perks,subjective,they can be better than video tutorials especially if you struggle staying focused + it definately saves time.
 In the case my blogs are unbearable don&amp;rsquo;t hesitate to chat me up on my socials below.
           
@@ -176,10 +176,10 @@ In the case my blogs are unbearable don&amp;rsquo;t hesitate to chat me up on my
     
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/archive/</link>
+      <link>https://onewaykaranja.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/</guid>
+      <guid>https://onewaykaranja.github.io/archive/</guid>
       <description>
         
           
